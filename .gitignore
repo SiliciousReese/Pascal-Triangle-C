@@ -1,3 +1,9 @@
+# Compiled code
+bin/
+
+# Vim YouCompleteMe plugin
+.ycm*
+
 # Object files
 *.o
 *.ko
